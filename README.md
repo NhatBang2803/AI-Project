@@ -12,6 +12,7 @@ Võ Thiên Trường	31231021356
 Trịnh Tiểu Ninh	31231021205
 Nguyễn Thị Như Ngọc	31231022885
 Mai Quỳnh Châu	31231025792
+Nguyễn Đỗ Lê Vy 31231022567
 
 ## 🎯 2. Giới thiệu đề tài
 Hiện nay, các nền tảng thanh toán điện tử như ZaloPay đang đối mặt với tình trạng bot farming – khi các tài khoản ảo hoặc chương trình tự động thực hiện hàng loạt giao dịch nhằm trục lợi từ khuyến mãi, phần thưởng hoặc gây tắc nghẽn hệ thống.
